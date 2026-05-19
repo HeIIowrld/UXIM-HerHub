@@ -138,7 +138,7 @@ UXIM 5조
 
 ## Tech Stack
 
-[추후 입력]
+테스트 수정 파일
 
 ## Demo
 
